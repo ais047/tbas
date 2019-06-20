@@ -1,0 +1,12 @@
+[
+    {
+        "user": "user1",
+        "pass": "pass",
+        "time": 0
+    },
+    {
+        "user": "user2",
+        "pass": "pass",
+        "time": 5
+    }
+]
